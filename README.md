@@ -38,4 +38,124 @@ Alors que Serrano continuait à parler avec la victime, Lam a utilisé les clés
 
 
 
-Une capture d’écran montrant comment Malone Lam et Jeandiel Serrano auraient manipulé la victime pour qu’elle ouvre ses fichiers personnels tout en utilisant un programme miroir.
+![A screenshot showing how Malone Lam and Jeandiel Serrano allegedly manipulated the victim into opening his personal files while using a mirror program](screenshot_3.avif)
+
+Les procureurs ont déclaré qu’ils disposaient d’enregistrements d’écran montrant Lam en utilisant le pseudonyme Telegram « $$$ » et le nom d’affichage Discord « Anne Hathaway » pour discuter de stratégies visant à manipuler la victime.
+
+Serrano a utilisé les surnoms en ligne « VersaceGod » et « @SkidStar ».
+
+
+
+Les autorités ont déclaré qu’elles disposaient de nombreux documents et photos reliant le pseudo Telegram à Lam.
+
+
+
+L’une des photos est celle de Lam avec une nouvelle voiture de sport blanche, avec son nom peint sur le côté. Il a envoyé cette photo à ses amis en utilisant le pseudo $$$ Telegram.
+
+
+
+Lors d’un entretien avec la police, Lam a également admis avoir utilisé le pseudonyme Telegram $$$, avoir commis un vol de crypto-monnaie et divisé les fonds volés, ainsi que blanchir ces fonds par le biais d’échanges de crypto-monnaies.
+
+
+
+Serrano aurait créé un compte sur TradeOgre, un bureau d’échange de devises numériques, et effectué un dépôt d’environ 29 millions de dollars américains en monnaie virtuelle.
+
+
+
+Il n’a pas utilisé de VPN lorsqu’il a créé le compte, et les dossiers de TradeOgre ont montré que le compte a été créé à partir d’une adresse IP enregistrée au domicile de Serrano à Encino, en Californie, qui était loué à 47 500 $ US par mois.
+
+
+
+La maison en Californie que Serrano louait à 47 500 dollars par mois.
+
+CE QUE LAM A FAIT AVEC L’ARGENT
+
+
+
+Lam s’est lancé dans une frénésie de dépenses à la suite du vol, selon les documents judiciaires.
+
+
+
+« La surveillance gouvernementale a filmé (Lam) dans les boîtes de nuit de Los Angeles dépensant des centaines de milliers de dollars par nuit et offrant des sacs à main d’une valeur de dizaines de milliers de dollars », a déclaré un agent des forces de l’ordre au tribunal, selon des documents judiciaires.
+
+
+
+La direction des boîtes de nuit a déclaré que Lam avait essayé de payer en crypto-monnaie et dépensait environ 400 000 à 500 000 dollars par nuit.
+
+
+
+L’accusation dispose également d’un reçu d’une boîte de nuit de Los Angeles où Lam a dépensé 569 528,39 $ US en une nuit.
+
+
+
+Lam aurait également acheté une « collection de voitures de luxe », dont certaines ont coûté jusqu’à 3 millions de dollars. Il s’agissait notamment de Lamborghini, de Ferrari et de Porsche personnalisées.
+
+
+
+Selon les documents judiciaires, Lam a admis avoir acheté 31 voitures de luxe, dont 22 n’avaient pas encore été retrouvées au 24 septembre. L’une de celles qui manquent encore est la voiture avec « Malone » peint sur le côté.
+
+
+
+Le 10 septembre, Lam s’est envolé en jet privé de Los Angeles à Miami pour poursuivre sa frénésie de dépenses.
+
+
+
+Il a loué plusieurs maisons à Miami, dont une sur l’île Hibiscus et deux autres maisons luxueuses près de l’eau. L’une de ces maisons avait un loyer mensuel de 68 000 $ US.
+
+
+
+À Miami, Lam a continué à dépenser de l’argent dans les boîtes de nuit, ainsi que pour des bijoux et des voitures.
+
+ARRESTATIONS
+
+
+
+Serrano a été arrêté à l’aéroport international de Los Angeles le 18 septembre alors qu’il rentrait chez lui après des vacances aux Maldives avec sa petite amie.
+
+
+
+Bien que le Federal Bureau of Investigation lui ait dit que « la seule façon d’aggraver la situation serait qu’elle appelle les associés de Serrano et les avertisse », la petite amie de Serrano a informé Lam de l’arrestation.
+
+
+
+PUBLICITÉ
+
+Le Singapourien a immédiatement supprimé son compte Telegram.
+
+
+
+Lam a été arrêté le même jour à Miami.
+
+
+
+Dans deux de ses maisons à Miami, les agents ont saisi neuf voitures et montres de luxe, dont l’une a coûté 1,8 million de dollars. Ils ont également trouvé des actes de vente pour certaines de ces voitures.
+
+
+
+Lors d’un entretien avec la police, Lam a admis avoir effectué d’autres piratages et gagné des millions grâce à ces stratagèmes distincts de fraude aux cryptomonnaies.
+
+
+
+RENVOYÉ
+
+
+
+Lam n’a pas de statut légal aux États-Unis, a appris le tribunal.
+
+
+
+Il est arrivé en octobre 2023 dans le cadre du programme américain d’exemption de visa, qui permet aux touristes de visiter le pays jusqu’à 90 jours sans visa.
+
+
+
+Alors qu’il était aux États-Unis, Lam n’avait pas de résidence permanente, n’avait pas d’emploi et « payait son style de vie somptueux avec des fonds volés », a entendu le tribunal lors de la tentative du gouvernement de le maintenir en détention provisoire.
+
+
+
+« De plus, (Lam) dispose d’actifs substantiels qui n’ont pas encore été localisés, ce qui lui donne les moyens financiers de fuir. »
+
+
+
+Pour chaque chef d’accusation de complot en vue de commettre une fraude électronique et de blanchiment d’argent, il pourrait être emprisonné jusqu’à 20 ans et condamné à une amende pouvant aller jusqu’à 250 000 $ US, soit jusqu’à deux fois ses gains provenant de ces escroqueries.
+
+
