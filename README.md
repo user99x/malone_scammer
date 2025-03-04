@@ -15,3 +15,4 @@ Cette personne a également utilisé des services proxy et de réseau privé vir
 Le tribunal a appris que le 18 août, Lam et son complice ont appelé la victime, prétendant être des membres de l’équipe d’assistance de Google. Ils ont dit qu’il y avait eu une tentative de piratage sur son compte et qu’ils devaient le fermer.
 Les deux hommes ont finalement convaincu la victime de fournir les codes de sécurité à son compte, avant que Lam n’accède aux comptes OneDrive et Gmail de la victime pour localiser les actifs en crypto-monnaie.
 Il a également « fouillé » les comptes privés de la victime à la recherche d’informations supplémentaires, selon des documents judiciaires.
+![Capture d'écran de mon projet](screenshot_1.avif)
