@@ -14,10 +14,14 @@ Ils ont demandé environ 60 jours pour poursuivre les négociations de plaidoyer
 Des documents judiciaires rendus publics plus tôt ce mois-ci détaillent comment Lam et Serrano auraient mené l’escroquerie et comment ils ont dépensé l’argent.
 
 # Partie 1 : Le vol 
-Lam et son co-conspirateur Serrano, 21 ans, de Los Angeles, ont ciblé la victime parce qu’ils l’ont identifié comme un « investisseur fortuné » dès les premiers jours de la crypto-monnaie.
-Selon les documents judiciaires, une planification substantielle a été mise en œuvre dans l’escroquerie, un co-conspirateur ayant provoqué l’envoi de notifications d'"accès non autorisé au compte Google » à la victime dans la semaine précédant le vol.
+Lam et son co-conspirateur Serrano, 21 ans, de Los Angeles, ont ciblé la victime parce qu’ils l’ont identifié comme un **« investisseur fortuné »** dès les premiers jours de la crypto-monnaie.
+Selon les documents judiciaires, une planification substantielle a été mise en œuvre dans l’escroquerie, un co-conspirateur ayant provoqué l’envoi de notifications d'accès non autorisé au compte Google » à la victime dans la semaine précédant le vol.
+
+
 Cette personne a également utilisé des services proxy et de réseau privé virtuel (VPN) pour faire croire que les tentatives d’accès provenaient de l’étranger – ce qui a jeté les bases du vol grâce à une « ingénierie sociale sophistiquée ».
 Le tribunal a appris que le 18 août, Lam et son complice ont appelé la victime, prétendant être des membres de l’équipe d’assistance de Google. Ils ont dit qu’il y avait eu une tentative de piratage sur son compte et qu’ils devaient le fermer.
+
+
 Les deux hommes ont finalement convaincu la victime de fournir les codes de sécurité à son compte, avant que Lam n’accède aux comptes OneDrive et Gmail de la victime pour localiser les actifs en crypto-monnaie.
 Il a également « fouillé » les comptes privés de la victime à la recherche d’informations supplémentaires, selon des documents judiciaires.
 
