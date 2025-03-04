@@ -3,13 +3,13 @@
 
 Malone Lam, 20 ans, a été inculpé aux États-Unis de complot en vue de commettre une fraude électronique et de blanchiment d’argent.
 Avec son co-conspirateur, Jeandiel Serrano, ils auraient volé plus de 4 100 bitcoins – d’une valeur d’environ 230 millions de dollars américains à l’époque – à une victime à Washington.
-L’escroquerie a été décrite comme "l’un des plus grands vols de crypto-monnaie d’un particulier ... dans l’histoire des États-Unis", ont déclaré les procureurs.
+L’escroquerie a été décrite comme **"l’un des plus grands vols de crypto-monnaie d’un particulier ... dans l’histoire des États-Unis"**, ont déclaré les procureurs.
 
 Mercredi 23 octobre au matin, heure de Singapour, Serrano a comparu devant le tribunal pour une audience sur l’état de l’instance. Le tribunal a appris que l’accusation et la défense « cherchaient une résolution de cette affaire sans qu’un procès ne soit tenu », selon les dossiers judiciaires.
 Ils ont demandé environ 60 jours pour poursuivre les négociations de plaidoyer et informeront le tribunal si un accord est conclu avant la date limite.
 Des documents judiciaires rendus publics plus tôt ce mois-ci détaillent comment Lam et Serrano auraient mené l’escroquerie et comment ils ont dépensé l’argent.
 
-# Le vol
+# Partie 1 : Le vol 
 Lam et son co-conspirateur Serrano, 21 ans, de Los Angeles, ont ciblé la victime parce qu’ils l’ont identifié comme un « investisseur fortuné » dès les premiers jours de la crypto-monnaie.
 Selon les documents judiciaires, une planification substantielle a été mise en œuvre dans l’escroquerie, un co-conspirateur ayant provoqué l’envoi de notifications d'"accès non autorisé au compte Google » à la victime dans la semaine précédant le vol.
 Cette personne a également utilisé des services proxy et de réseau privé virtuel (VPN) pour faire croire que les tentatives d’accès provenaient de l’étranger – ce qui a jeté les bases du vol grâce à une « ingénierie sociale sophistiquée ».
@@ -69,7 +69,7 @@ Il n’a pas utilisé de VPN lorsqu’il a créé le compte, et les dossiers de 
 
 La maison en Californie que Serrano louait à 47 500 dollars par mois.
 
-CE QUE LAM A FAIT AVEC L’ARGENT
+# Partie 2 : Les dépenses qui ne passent pas inaperçu
 
 
 
@@ -81,8 +81,8 @@ Lam s’est lancé dans une frénésie de dépenses à la suite du vol, selon le
 
 
 
-La direction des boîtes de nuit a déclaré que Lam avait essayé de payer en crypto-monnaie et dépensait environ 400 000 à 500 000 dollars par nuit.
-
+La direction des boîtes de nuit a déclaré que Lam avait essayé de payer en crypto-monnaie et dépensait environ **400 000 à 500 000 dollars par nuit.
+**
 
 
 L’accusation dispose également d’un reçu d’une boîte de nuit de Los Angeles où Lam a dépensé 569 528,39 $ US en une nuit.
