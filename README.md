@@ -1,4 +1,5 @@
-# Un Singapourien accusé d’avoir volé et blanchi 230 millions de dollars de crypto-monnaie s’était fait passer pour un employé de Google pour tromper sa victime, selon des documents judiciaires.
+# Un Singapourien accusé d’avoir volé et blanchi 230 millions de dollars de crypto-monnaie s’était fait passer pour un employé de Google pour tromper sa victime, selon des documents judiciaires. ![malone](091924-Malone-Lam.webp)
+
 
 Malone Lam, 20 ans, a été inculpé aux États-Unis de complot en vue de commettre une fraude électronique et de blanchiment d’argent.
 Avec son co-conspirateur, Jeandiel Serrano, ils auraient volé plus de 4 100 bitcoins – d’une valeur d’environ 230 millions de dollars américains à l’époque – à une victime à Washington.
