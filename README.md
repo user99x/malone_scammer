@@ -1,4 +1,4 @@
-# Malone accusé d’avoir volé et blanchi 230 millions de dollars de crypto-monnaie s’était fait passer pour un employé de Google pour tromper sa victime. ![malone](091924-Malone-Lam.webp)
+# Malone, accusé d’avoir volé et blanchi 230 millions de dollars de crypto-monnaie s’était fait passer pour un employé de Google pour tromper sa victime. ![malone](091924-Malone-Lam.webp)
 
 
 Malone Lam, 20 ans, a été inculpé aux États-Unis de complot en vue de commettre une fraude électronique et de blanchiment d’argent.
