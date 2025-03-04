@@ -3,10 +3,14 @@
 
 Malone Lam, 20 ans, a été inculpé aux États-Unis de complot en vue de commettre une fraude électronique et de blanchiment d’argent.
 Avec son co-conspirateur, Jeandiel Serrano, ils auraient volé plus de 4 100 bitcoins – d’une valeur d’environ 230 millions de dollars américains à l’époque – à une victime à Washington.
+
 L’escroquerie a été décrite comme **"l’un des plus grands vols de crypto-monnaie d’un particulier ... dans l’histoire des États-Unis"**, ont déclaré les procureurs.
 
-Mercredi 23 octobre au matin, heure de Singapour, Serrano a comparu devant le tribunal pour une audience sur l’état de l’instance. Le tribunal a appris que l’accusation et la défense « cherchaient une résolution de cette affaire sans qu’un procès ne soit tenu », selon les dossiers judiciaires.
+Mercredi 23 octobre au matin, heure de Singapour, Serrano a comparu devant le tribunal pour une audience sur l’état de l’instance.
+Le tribunal a appris que l’accusation et la défense « cherchaient une résolution de cette affaire sans qu’un procès ne soit tenu », selon les dossiers judiciaires.
 Ils ont demandé environ 60 jours pour poursuivre les négociations de plaidoyer et informeront le tribunal si un accord est conclu avant la date limite.
+
+
 Des documents judiciaires rendus publics plus tôt ce mois-ci détaillent comment Lam et Serrano auraient mené l’escroquerie et comment ils ont dépensé l’argent.
 
 # Partie 1 : Le vol 
