@@ -15,4 +15,27 @@ Cette personne a également utilisé des services proxy et de réseau privé vir
 Le tribunal a appris que le 18 août, Lam et son complice ont appelé la victime, prétendant être des membres de l’équipe d’assistance de Google. Ils ont dit qu’il y avait eu une tentative de piratage sur son compte et qu’ils devaient le fermer.
 Les deux hommes ont finalement convaincu la victime de fournir les codes de sécurité à son compte, avant que Lam n’accède aux comptes OneDrive et Gmail de la victime pour localiser les actifs en crypto-monnaie.
 Il a également « fouillé » les comptes privés de la victime à la recherche d’informations supplémentaires, selon des documents judiciaires.
-![Capture d'écran de mon projet](screenshot_1.avif)
+
+![Capture d’écran d’une conversation entre Malone Lam et Jeandiel Serrano](screenshot_1.avif)
+
+Les conspirateurs ont convenu que l’un d’entre eux devrait rappeler la victime et se faire passer pour un membre de l’équipe de sécurité de Gemini pour convaincre la victime que ses comptes de crypto-monnaie avaient également été compromis.
+
+
+
+Initialement, ils auraient convaincu la victime de transférer environ 3 millions de dollars américains de crypto-monnaie vers un portefeuille de crypto-monnaie contrôlé par Lam.
+
+
+
+Ils ont ensuite demandé à la victime de télécharger un programme de connexion à distance pour sa propre sécurité. Ce programme a donné à Lam et Serrano un accès en temps réel à l’ordinateur de la victime.
+
+
+
+Serrano aurait continué à manipuler la victime pour qu’elle ouvre plusieurs fichiers, y compris ceux contenant des clés privées de plus de 4 100 bitcoins.
+
+
+
+Alors que Serrano continuait à parler avec la victime, Lam a utilisé les clés d’accès pour voler le bitcoin.
+
+
+
+Une capture d’écran montrant comment Malone Lam et Jeandiel Serrano auraient manipulé la victime pour qu’elle ouvre ses fichiers personnels tout en utilisant un programme miroir.
