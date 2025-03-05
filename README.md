@@ -115,8 +115,7 @@ Il a loué plusieurs maisons à Miami, dont une sur l’île Hibiscus et deux au
 
 À Miami, Lam a continué à dépenser de l’argent dans les boîtes de nuit, ainsi que pour des bijoux et des voitures.
 
-ARRESTATIONS
-
+# Partie 3 : La fin d'une courte histoire ...
 
 
 Serrano a été arrêté à l’aéroport international de Los Angeles le 18 septembre alors qu’il rentrait chez lui après des vacances aux Maldives avec sa petite amie.
@@ -125,9 +124,6 @@ Serrano a été arrêté à l’aéroport international de Los Angeles le 18 sep
 
 Bien que le Federal Bureau of Investigation lui ait dit que « la seule façon d’aggraver la situation serait qu’elle appelle les associés de Serrano et les avertisse », la petite amie de Serrano a informé Lam de l’arrestation.
 
-
-
-PUBLICITÉ
 
 Le Singapourien a immédiatement supprimé son compte Telegram.
 
@@ -142,11 +138,6 @@ Dans deux de ses maisons à Miami, les agents ont saisi neuf voitures et montres
 
 
 Lors d’un entretien avec la police, Lam a admis avoir effectué d’autres piratages et gagné des millions grâce à ces stratagèmes distincts de fraude aux cryptomonnaies.
-
-
-
-RENVOYÉ
-
 
 
 Lam n’a pas de statut légal aux États-Unis, a appris le tribunal.
