@@ -10,6 +10,8 @@ Le tribunal a appris que l’accusation et la défense « cherchaient une résol
 Ils ont demandé environ 60 jours pour poursuivre les négociations de plaidoyer et informeront le tribunal si un accord est conclu avant la date limite.
 
 - Des documents judiciaires rendus publics plus tôt ce mois-ci détaillent comment Lam et Serrano auraient mené l’escroquerie et comment ils ont dépensé l’argent.
+  
+---
 
 # Partie 1 : Le vol 
 Lam et son co-conspirateur Serrano, 21 ans, de Los Angeles, ont ciblé la victime parce qu’ils l’ont identifié comme un **« investisseur fortuné »** dès les premiers jours de la crypto-monnaie.
@@ -27,11 +29,13 @@ Il a également « fouillé » les comptes privés de la victime à la recherc
 
 Les conspirateurs ont convenu que l’un d’entre eux devrait rappeler la victime et se faire passer pour un membre de l’équipe de sécurité de Gemini pour convaincre la victime que ses comptes de crypto-monnaie avaient également été compromis.
 
-Initialement, ils auraient convaincu la victime de transférer environ 3 millions de dollars américains de crypto-monnaie vers un portefeuille de crypto-monnaie contrôlé par Lam.
-Ils ont ensuite demandé à la victime de télécharger un programme de connexion à distance pour sa propre sécurité. Ce programme a donné à Lam et Serrano un accès en temps réel à l’ordinateur de la victime.
-Serrano aurait continué à manipuler la victime pour qu’elle ouvre plusieurs fichiers, y compris ceux contenant des clés privées de plus de 4 100 bitcoins.
-Alors que Serrano continuait à parler avec la victime, Lam a utilisé les clés d’accès pour voler le bitcoin.
+- Initialement, ils auraient convaincu la victime de transférer environ 3 millions de dollars américains de crypto-monnaie vers un portefeuille de crypto-monnaie contrôlé par Lam.
+- Ils ont ensuite demandé à la victime de télécharger un programme de connexion à distance pour sa propre sécurité. Ce programme a donné à Lam et Serrano un accès en temps réel à l’ordinateur de la victime.
+- Serrano aurait continué à manipuler la victime pour qu’elle ouvre plusieurs fichiers, y compris ceux contenant des clés privées de plus de 4 100 bitcoins.
+- Alors que Serrano continuait à parler avec la victime, Lam a utilisé les clés d’accès pour voler le bitcoin.
+
 ![A screenshot showing how Malone Lam and Jeandiel Serrano allegedly manipulated the victim into opening his personal files while using a mirror program](screenshot_3.avif)
+
 Les procureurs ont déclaré qu’ils disposaient d’enregistrements d’écran montrant Lam en utilisant le pseudonyme Telegram « $$$ » et le nom d’affichage Discord « Anne Hathaway » pour discuter de stratégies visant à manipuler la victime.
 
 - Serrano a utilisé les surnoms en ligne « VersaceGod » et « @SkidStar ».
@@ -42,6 +46,8 @@ Lors d’un entretien avec la police, Lam a également admis avoir utilisé le p
 Serrano aurait créé un compte sur TradeOgre, un bureau d’échange de devises numériques, et effectué un dépôt d’environ 29 millions de dollars américains en monnaie virtuelle.
 Il n’a pas utilisé de VPN lorsqu’il a créé le compte, et les dossiers de TradeOgre ont montré que le compte a été créé à partir d’une adresse IP enregistrée au domicile de Serrano à Encino, en Californie, qui était loué à 47 500 $ US par mois.
 La maison en Californie que Serrano louait à 47 500 dollars par mois.
+
+---
 
 # Partie 2 : Les dépenses qui ne passent pas inaperçu
 
