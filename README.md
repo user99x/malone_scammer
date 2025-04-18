@@ -51,6 +51,7 @@ La maison en Californie que Serrano louait à 47 500 dollars par mois.
 
 # Partie 2 : Les dépenses qui ne passent pas inaperçu
 
+![juste un mec chill qui est habiller pour 200k](OIP (3).jpg) 
 
 
 Lam s’est lancé dans une frénésie de dépenses à la suite du vol, selon les documents judiciaires.
