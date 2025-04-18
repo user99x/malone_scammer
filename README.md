@@ -1,17 +1,15 @@
 # Malone, accusé d’avoir volé et blanchi 230 millions de dollars de crypto-monnaie s’était fait passer pour un employé de Google pour tromper sa victime. ![malone](091924-Malone-Lam.webp)
 
+- Malone Lam, 20 ans, a été inculpé aux États-Unis de complot en vue de commettre une fraude électronique et de blanchiment d’argent.
+- Avec son co-conspirateur, Jeandiel Serrano, ils auraient volé plus de 4 100 bitcoins – d’une valeur d’environ 230 millions de dollars américains à l’époque – à une victime à Washington.
 
-Malone Lam, 20 ans, a été inculpé aux États-Unis de complot en vue de commettre une fraude électronique et de blanchiment d’argent.
-Avec son co-conspirateur, Jeandiel Serrano, ils auraient volé plus de 4 100 bitcoins – d’une valeur d’environ 230 millions de dollars américains à l’époque – à une victime à Washington.
-
-L’escroquerie a été décrite comme **"l’un des plus grands vols de crypto-monnaie d’un particulier ... dans l’histoire des États-Unis"**, ont déclaré les procureurs.
+- L’escroquerie a été décrite comme **"l’un des plus grands vols de crypto-monnaie d’un particulier ... dans l’histoire des États-Unis"**, ont déclaré les procureurs.
 
 Mercredi 23 octobre au matin, heure de Singapour, Serrano a comparu devant le tribunal pour une audience sur l’état de l’instance.
 Le tribunal a appris que l’accusation et la défense « cherchaient une résolution de cette affaire sans qu’un procès ne soit tenu », selon les dossiers judiciaires.
 Ils ont demandé environ 60 jours pour poursuivre les négociations de plaidoyer et informeront le tribunal si un accord est conclu avant la date limite.
 
-
-Des documents judiciaires rendus publics plus tôt ce mois-ci détaillent comment Lam et Serrano auraient mené l’escroquerie et comment ils ont dépensé l’argent.
+- Des documents judiciaires rendus publics plus tôt ce mois-ci détaillent comment Lam et Serrano auraient mené l’escroquerie et comment ils ont dépensé l’argent.
 
 # Partie 1 : Le vol 
 Lam et son co-conspirateur Serrano, 21 ans, de Los Angeles, ont ciblé la victime parce qu’ils l’ont identifié comme un **« investisseur fortuné »** dès les premiers jours de la crypto-monnaie.
@@ -29,52 +27,20 @@ Il a également « fouillé » les comptes privés de la victime à la recherc
 
 Les conspirateurs ont convenu que l’un d’entre eux devrait rappeler la victime et se faire passer pour un membre de l’équipe de sécurité de Gemini pour convaincre la victime que ses comptes de crypto-monnaie avaient également été compromis.
 
-
-
 Initialement, ils auraient convaincu la victime de transférer environ 3 millions de dollars américains de crypto-monnaie vers un portefeuille de crypto-monnaie contrôlé par Lam.
-
-
-
 Ils ont ensuite demandé à la victime de télécharger un programme de connexion à distance pour sa propre sécurité. Ce programme a donné à Lam et Serrano un accès en temps réel à l’ordinateur de la victime.
-
-
-
 Serrano aurait continué à manipuler la victime pour qu’elle ouvre plusieurs fichiers, y compris ceux contenant des clés privées de plus de 4 100 bitcoins.
-
-
-
 Alors que Serrano continuait à parler avec la victime, Lam a utilisé les clés d’accès pour voler le bitcoin.
-
-
-
 ![A screenshot showing how Malone Lam and Jeandiel Serrano allegedly manipulated the victim into opening his personal files while using a mirror program](screenshot_3.avif)
-
 Les procureurs ont déclaré qu’ils disposaient d’enregistrements d’écran montrant Lam en utilisant le pseudonyme Telegram « $$$ » et le nom d’affichage Discord « Anne Hathaway » pour discuter de stratégies visant à manipuler la victime.
 
-Serrano a utilisé les surnoms en ligne « VersaceGod » et « @SkidStar ».
-
-
-
-Les autorités ont déclaré qu’elles disposaient de nombreux documents et photos reliant le pseudo Telegram à Lam.
-
-
-
-L’une des photos est celle de Lam avec une nouvelle voiture de sport blanche, avec son nom peint sur le côté. Il a envoyé cette photo à ses amis en utilisant le pseudo $$$ Telegram.
-
-
+- Serrano a utilisé les surnoms en ligne « VersaceGod » et « @SkidStar ».
+- Les autorités ont déclaré qu’elles disposaient de nombreux documents et photos reliant le pseudo Telegram à Lam.
+- L’une des photos est celle de Lam avec une nouvelle voiture de sport blanche, avec son nom peint sur le côté. Il a envoyé cette photo à ses amis en utilisant le pseudo $$$ Telegram.
 
 Lors d’un entretien avec la police, Lam a également admis avoir utilisé le pseudonyme Telegram $$$, avoir commis un vol de crypto-monnaie et divisé les fonds volés, ainsi que blanchir ces fonds par le biais d’échanges de crypto-monnaies.
-
-
-
 Serrano aurait créé un compte sur TradeOgre, un bureau d’échange de devises numériques, et effectué un dépôt d’environ 29 millions de dollars américains en monnaie virtuelle.
-
-
-
 Il n’a pas utilisé de VPN lorsqu’il a créé le compte, et les dossiers de TradeOgre ont montré que le compte a été créé à partir d’une adresse IP enregistrée au domicile de Serrano à Encino, en Californie, qui était loué à 47 500 $ US par mois.
-
-
-
 La maison en Californie que Serrano louait à 47 500 dollars par mois.
 
 # Partie 2 : Les dépenses qui ne passent pas inaperçu
@@ -157,5 +123,10 @@ Alors qu’il était aux États-Unis, Lam n’avait pas de résidence permanente
 
 
 Pour chaque chef d’accusation de complot en vue de commettre une fraude électronique et de blanchiment d’argent, il pourrait être emprisonné jusqu’à 20 ans et condamné à une amende pouvant aller jusqu’à 250 000 $ US, soit jusqu’à deux fois ses gains provenant de ces escroqueries.
+
+# 18/04/2025 
+Par ailleurs, il y a environ cinq mois, Scott Armstrong a déclaré que M. Lam, alors âgé de 20 ans, était malheureusement impliqué dans une affaire très complexe, et qu'il serait défendu avec vigueur. 
+Il serait jugé en octobre 2025.
+
 
 
