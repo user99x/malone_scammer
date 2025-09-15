@@ -62,8 +62,7 @@ Lam s’est lancé dans une frénésie de dépenses à la suite du vol, selon le
 
 
 
-La direction des boîtes de nuit a déclaré que Lam avait essayé de payer en crypto-monnaie et dépensait environ **400 000 à 500 000 dollars par nuit.
-**
+La direction des boîtes de nuit a déclaré que Lam avait essayé de payer en crypto-monnaie et dépensait environ 400 000 à 500 000 dollars par nuit.
 
 
 L’accusation dispose également d’un reçu d’une boîte de nuit de Los Angeles où Lam a dépensé 569 528,39 $ US en une nuit.
